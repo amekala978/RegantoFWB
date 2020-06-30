@@ -1,5 +1,5 @@
 package RegantoFWB.DigitalPaySlips.qa.base;
-
+//New changes for Eclipse to Azure Repos.
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
